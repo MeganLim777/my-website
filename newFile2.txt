@@ -1,0 +1,3 @@
+This is the 2nd newFile.txt before rebase
+
+The previous newFile.txt is also before we rebase.
